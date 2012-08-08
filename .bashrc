@@ -3,4 +3,4 @@
 # prompt. \n is the new line, \e[1;31m sets red color till \e[m, \d is date,
 # \t is time, \u is the usename, \w is the current working directory, $ is the
 # prompt.
-export PS1="\n\e[1;31m[\d \t \u] \w\n\e[m$ "
+export PS1="\n\e[1;31m[\d \t \u] \w\e[m\n$ "
