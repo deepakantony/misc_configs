@@ -3,4 +3,5 @@ Misc Configs
 
 Miscellaneous configuration files.
 
-Contain the .bash_profile and .bashrc from my mac.
+* Bash profile file for configuring bash.
+* Registry files for configuring windows.
