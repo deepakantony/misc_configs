@@ -2,12 +2,12 @@ REGEDIT4
 [HKEY_CLASSES_ROOT\Directory\shell\EmacsHere]
 @="&Emacs Here"
 [HKEY_CLASSES_ROOT\Directory\shell\EmacsHere\command]
-@="C:\\emacs-24.1\\bin\\runemacs.exe \"%L\""
+@="C:\\emacs-24.3\\bin\\runemacs.exe \"%L\""
 [HKEY_CLASSES_ROOT\Drive\shell\EmacsHere]
 @="&Emacs Here"
 [HKEY_CLASSES_ROOT\Drive\shell\EmacsHere\command]
-@=""C:\\emacs-24.1\\bin\\runemacs.exe \"%L\""
+@=""C:\\emacs-24.3\\bin\\runemacs.exe \"%L\""
 [HKEY_CLASSES_ROOT\*\shell\EmacsHere]
 @="&Emacs Here"
 [HKEY_CLASSES_ROOT\*\shell\EmacsHere\command]
-@="C:\\emacs-24.1\\bin\\runemacs.exe \"%L\""
+@="C:\\emacs-24.3\\bin\\runemacs.exe \"%L\""

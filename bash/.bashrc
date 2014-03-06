@@ -5,3 +5,7 @@
 # \t is time, \u is the username, \h is the hostname \w is the current working 
 # directory, $ is the prompt.
 export PS1="\n\e[1;32m[\d \t \u@\h]\e[m \e[1;31m\w\e[m\n$ "
+unset tmp
+unset TMP
+unset temp
+unset TEMP
